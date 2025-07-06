@@ -21,14 +21,16 @@ body {
 
 h1{
   font-size: 2rem;
+  font-family: $almendra-font-family;
+  color: $black
 }
 
 h1 a {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $sans-serif-font-family;
+h2, h3, h4, h5, h6 {
+  font-family: $serif-font-family;
   color: $dark-gray-color;
 }
 
