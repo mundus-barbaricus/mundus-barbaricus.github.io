@@ -29,3 +29,6 @@ author:              'Tempus Barbaricum'
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+# Rybbit Analytics Configuration
+rybbit_instance_url: "https://app.rybbit.io" # Optional, defaults in include
+rybbit_site_id: "1737"
